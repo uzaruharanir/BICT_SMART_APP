@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BICT_SMART_APP</string>
+    <string name="title_activity_cool__navigation">COOL_NAVIGATION</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="www_bict_rw">www.bict.rw</string>
+    <string name="uzaruharanira_marc">Uzaruharanira Marc</string>
+</resources>
